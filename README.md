@@ -5,4 +5,4 @@ The school has 11 years glorious history. It is one of the oldest and best schoo
 The school is doing honest attempts to develope the moral values‚ to make them civilized citizens of Paharpur, to enter in new and modern world.
 subhashpublicschoolnoneya
 spsn
-spsn.netlify.app
+[1]: http://spsn.netlify.app/ "Subhash Public School"
