@@ -7,3 +7,5 @@ subhashpublicschool
 spsn
 [1]: https://spsn.netlify.app/ "Subhash Public School"
 ![sps1](https://user-images.githubusercontent.com/110540811/216284165-14791f6c-48b9-4ed3-91ee-6ae613455d4e.PNG)
+
+[![Stargazers repo roster for @gaurav-aditya/subhashpublicschool](https://reporoster.com/stars/gaurav-aditya/subhashpublicschool)](https://github.com/gaurav-aditya/subhashpublicschool/stargazers)
