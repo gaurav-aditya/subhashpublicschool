@@ -1,6 +1,7 @@
 # Subhash Public School
 
 [Official Website](https://spsn.netlify.app/) ![sps1](https://user-images.githubusercontent.com/110540811/216284165-14791f6c-48b9-4ed3-91ee-6ae613455d4e.PNG)
+![spsn-netlify-app-1024x768desktop-0cfe44](https://github.com/user-attachments/assets/89dc7ff0-3b32-4374-b9a7-304b1d588ff7)
 
 ## Overview
 
