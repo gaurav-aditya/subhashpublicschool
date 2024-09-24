@@ -1,11 +1,25 @@
-# [2]: https://spsn.netlify.app/ "Subhash Public School"
-SUBHASH PUBLIC SCHOOL Official Website
-The school has 11 years glorious history. It is one of the oldest and best school in Noneya Paharpur (East Champaran,BIHAR). It was founded on 2nd April 2011 with the help of eminient people and Pratikarsh Organization. At that time‚ there were only 6 teachers and 80 students for 1st to 5th standard. Today‚ 700+ students are learning in the school.
+# Subhash Public School
 
-The school is doing honest attempts to develope the moral values‚ to make them civilized citizens of Paharpur, to enter in new and modern world.
-subhashpublicschool
-spsn
-[1]: https://spsn.netlify.app/ "Subhash Public School"
-![sps1](https://user-images.githubusercontent.com/110540811/216284165-14791f6c-48b9-4ed3-91ee-6ae613455d4e.PNG)
+[Official Website](https://spsn.netlify.app/) ![sps1](https://user-images.githubusercontent.com/110540811/216284165-14791f6c-48b9-4ed3-91ee-6ae613455d4e.PNG)
+
+## Overview
+
+Subhash Public School has a glorious history spanning 11 years. Located in Noneya Paharpur (East Champaran, Bihar), it is one of the oldest and best schools in the region. Founded on April 2, 2011, with the support of eminent individuals and the Pratikarsh Organization, the school started with just 6 teachers and 80 students in grades 1 to 5. Today, over 700 students are enrolled, benefiting from a quality education.
+
+## Mission
+
+The school is committed to developing moral values and nurturing civilized citizens of Paharpur. We aim to prepare our students to thrive in the new and modern world.
+
+## Get Involved
+
+If you're interested in supporting our mission or want to learn more about our programs, feel free to reach out!
 
 [![Stargazers repo roster for @gaurav-aditya/subhashpublicschool](https://reporoster.com/stars/gaurav-aditya/subhashpublicschool)](https://github.com/gaurav-aditya/subhashpublicschool/stargazers)
+
+## Contact
+
+For more information, please visit our [official website](https://spsn.netlify.app/).
+
+---
+
+Thank you for your interest in Subhash Public School!
