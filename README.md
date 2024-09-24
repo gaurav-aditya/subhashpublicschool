@@ -1,8 +1,8 @@
 # Subhash Public School
 
-[Official Website](https://spsn.netlify.app/) ![sps1](https://user-images.githubusercontent.com/110540811/216284165-14791f6c-48b9-4ed3-91ee-6ae613455d4e.PNG)
+[Official Website](https://spsn.netlify.app/) 
 ![spsn-netlify-app-1024x768desktop-0cfe44](https://github.com/user-attachments/assets/89dc7ff0-3b32-4374-b9a7-304b1d588ff7)
-
+![sps1](https://user-images.githubusercontent.com/110540811/216284165-14791f6c-48b9-4ed3-91ee-6ae613455d4e.PNG)
 ## Overview
 
 Subhash Public School has a glorious history spanning 11 years. Located in Noneya Paharpur (East Champaran, Bihar), it is one of the oldest and best schools in the region. Founded on April 2, 2011, with the support of eminent individuals and the Pratikarsh Organization, the school started with just 6 teachers and 80 students in grades 1 to 5. Today, over 700 students are enrolled, benefiting from a quality education.
